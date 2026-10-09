@@ -1,0 +1,182 @@
+FormUp AI — промпты состояний питомца (ChatGPT), версия 2
+
+КАК ДЕЛАТЬ:
+• Пиши в ТОМ ЖЕ чате, где делал этого питомца (чат котёнка / чат щенка). Картинку прикреплять не нужно — промпт ссылается на версию, которую ChatGPT уже сделал в этом чате.
+• Если ChatGPT вдруг меняет возраст или внешность — тогда один раз прикрепи довольную картинку этого возраста и повтори.
+• Сохраняй с именами из скобок (cat_3_teen_hungry.png и т.д.).
+• 6 возрастов × 4 состояния × 2 животных = 48 картинок (+12 довольных = 60).
+• «Умер» отдельно не рисуем — см. конец файла.
+
+======================================================================
+ВОЗРАСТ 1 — Малыш
+======================================================================
+
+--- Просит еду (дни 4–5)  →  cat_1_baby_asking.png / dog_1_baby_asking.png
+
+Take the BABY version of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — ASKING FOR FOOD: sitting next to an empty food bowl, looking up at the viewer with big hopeful begging eyes, ears slightly down, one paw lifted, still healthy and fluffy. A little sad but still cute.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Голодный (дни 6–9)  →  cat_1_baby_hungry.png / dog_1_baby_hungry.png
+
+Take the BABY version of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — HUNGRY: sitting hunched next to an empty food bowl, ears drooping, big teary pleading eyes, visibly thinner body, fur less fluffy, colours a bit duller. Sad and emotional, not scary.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Слабый (дни 10–13)  →  cat_1_baby_weak.png / dog_1_baby_weak.png
+
+Take the BABY version of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — WEAK: lying on the floor with the chin on the front paws, noticeably thin, tired half-closed eyes, ears flat, dull slightly messy fur, a small tear. Makes you want to help it. No blood, no injuries, no bones showing.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Последний шанс (дни 14–20)  →  cat_1_baby_lastchance.png / dog_1_baby_lastchance.png
+
+Take the BABY version of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — LAST CHANCE: curled up on a small worn blanket, very thin, eyes almost closed, faded colours, looks like it urgently needs help. Heartbreaking but gentle, not disturbing. No blood, no injuries, no bones showing.
+Square image, transparent background (PNG), no shadow, no text.
+
+======================================================================
+ВОЗРАСТ 2 — Кроха
+======================================================================
+
+--- Просит еду (дни 4–5)  →  cat_2_little_asking.png / dog_2_little_asking.png
+
+Take the LITTLE version (slightly older, clumsy) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — ASKING FOR FOOD: sitting next to an empty food bowl, looking up at the viewer with big hopeful begging eyes, ears slightly down, one paw lifted, still healthy and fluffy. A little sad but still cute.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Голодный (дни 6–9)  →  cat_2_little_hungry.png / dog_2_little_hungry.png
+
+Take the LITTLE version (slightly older, clumsy) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — HUNGRY: sitting hunched next to an empty food bowl, ears drooping, big teary pleading eyes, visibly thinner body, fur less fluffy, colours a bit duller. Sad and emotional, not scary.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Слабый (дни 10–13)  →  cat_2_little_weak.png / dog_2_little_weak.png
+
+Take the LITTLE version (slightly older, clumsy) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — WEAK: lying on the floor with the chin on the front paws, noticeably thin, tired half-closed eyes, ears flat, dull slightly messy fur, a small tear. Makes you want to help it. No blood, no injuries, no bones showing.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Последний шанс (дни 14–20)  →  cat_2_little_lastchance.png / dog_2_little_lastchance.png
+
+Take the LITTLE version (slightly older, clumsy) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — LAST CHANCE: curled up on a small worn blanket, very thin, eyes almost closed, faded colours, looks like it urgently needs help. Heartbreaking but gentle, not disturbing. No blood, no injuries, no bones showing.
+Square image, transparent background (PNG), no shadow, no text.
+
+======================================================================
+ВОЗРАСТ 3 — Подросток
+======================================================================
+
+--- Просит еду (дни 4–5)  →  cat_3_teen_asking.png / dog_3_teen_asking.png
+
+Take the TEEN version of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — ASKING FOR FOOD: sitting next to an empty food bowl, looking up at the viewer with big hopeful begging eyes, ears slightly down, one paw lifted, still healthy and fluffy. A little sad but still cute.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Голодный (дни 6–9)  →  cat_3_teen_hungry.png / dog_3_teen_hungry.png
+
+Take the TEEN version of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — HUNGRY: sitting hunched next to an empty food bowl, ears drooping, big teary pleading eyes, visibly thinner body, fur less fluffy, colours a bit duller. Sad and emotional, not scary.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Слабый (дни 10–13)  →  cat_3_teen_weak.png / dog_3_teen_weak.png
+
+Take the TEEN version of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — WEAK: lying on the floor with the chin on the front paws, noticeably thin, tired half-closed eyes, ears flat, dull slightly messy fur, a small tear. Makes you want to help it. No blood, no injuries, no bones showing.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Последний шанс (дни 14–20)  →  cat_3_teen_lastchance.png / dog_3_teen_lastchance.png
+
+Take the TEEN version of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — LAST CHANCE: curled up on a small worn blanket, very thin, eyes almost closed, faded colours, looks like it urgently needs help. Heartbreaking but gentle, not disturbing. No blood, no injuries, no bones showing.
+Square image, transparent background (PNG), no shadow, no text.
+
+======================================================================
+ВОЗРАСТ 4 — Юный спортсмен
+======================================================================
+
+--- Просит еду (дни 4–5)  →  cat_4_youngathlete_asking.png / dog_4_youngathlete_asking.png
+
+Take the YOUNG ATHLETE version (lean young adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — ASKING FOR FOOD: sitting next to an empty food bowl, looking up at the viewer with big hopeful begging eyes, ears slightly down, one paw lifted, still healthy and fluffy. A little sad but still cute. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Голодный (дни 6–9)  →  cat_4_youngathlete_hungry.png / dog_4_youngathlete_hungry.png
+
+Take the YOUNG ATHLETE version (lean young adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — HUNGRY: sitting hunched next to an empty food bowl, ears drooping, big teary pleading eyes, visibly thinner body, fur less fluffy, colours a bit duller. Sad and emotional, not scary. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Слабый (дни 10–13)  →  cat_4_youngathlete_weak.png / dog_4_youngathlete_weak.png
+
+Take the YOUNG ATHLETE version (lean young adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — WEAK: lying on the floor with the chin on the front paws, noticeably thin, tired half-closed eyes, ears flat, dull slightly messy fur, a small tear. Makes you want to help it. No blood, no injuries, no bones showing. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Последний шанс (дни 14–20)  →  cat_4_youngathlete_lastchance.png / dog_4_youngathlete_lastchance.png
+
+Take the YOUNG ATHLETE version (lean young adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — LAST CHANCE: curled up on a small worn blanket, very thin, eyes almost closed, faded colours, looks like it urgently needs help. Heartbreaking but gentle, not disturbing. No blood, no injuries, no bones showing. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+======================================================================
+ВОЗРАСТ 5 — Чемпион
+======================================================================
+
+--- Просит еду (дни 4–5)  →  cat_5_champion_asking.png / dog_5_champion_asking.png
+
+Take the CHAMPION version (full-grown strong adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — ASKING FOR FOOD: sitting next to an empty food bowl, looking up at the viewer with big hopeful begging eyes, ears slightly down, one paw lifted, still healthy and fluffy. A little sad but still cute. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Голодный (дни 6–9)  →  cat_5_champion_hungry.png / dog_5_champion_hungry.png
+
+Take the CHAMPION version (full-grown strong adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — HUNGRY: sitting hunched next to an empty food bowl, ears drooping, big teary pleading eyes, visibly thinner body, fur less fluffy, colours a bit duller. Sad and emotional, not scary. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Слабый (дни 10–13)  →  cat_5_champion_weak.png / dog_5_champion_weak.png
+
+Take the CHAMPION version (full-grown strong adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — WEAK: lying on the floor with the chin on the front paws, noticeably thin, tired half-closed eyes, ears flat, dull slightly messy fur, a small tear. Makes you want to help it. No blood, no injuries, no bones showing. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Последний шанс (дни 14–20)  →  cat_5_champion_lastchance.png / dog_5_champion_lastchance.png
+
+Take the CHAMPION version (full-grown strong adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — LAST CHANCE: curled up on a small worn blanket, very thin, eyes almost closed, faded colours, looks like it urgently needs help. Heartbreaking but gentle, not disturbing. No blood, no injuries, no bones showing. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+======================================================================
+ВОЗРАСТ 6 — Легенда
+======================================================================
+
+--- Просит еду (дни 4–5)  →  cat_6_legend_asking.png / dog_6_legend_asking.png
+
+Take the LEGEND version (majestic legendary adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — ASKING FOR FOOD: sitting next to an empty food bowl, looking up at the viewer with big hopeful begging eyes, ears slightly down, one paw lifted, still healthy and fluffy. A little sad but still cute. The golden glow is gone. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Голодный (дни 6–9)  →  cat_6_legend_hungry.png / dog_6_legend_hungry.png
+
+Take the LEGEND version (majestic legendary adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — HUNGRY: sitting hunched next to an empty food bowl, ears drooping, big teary pleading eyes, visibly thinner body, fur less fluffy, colours a bit duller. Sad and emotional, not scary. The golden glow is gone. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Слабый (дни 10–13)  →  cat_6_legend_weak.png / dog_6_legend_weak.png
+
+Take the LEGEND version (majestic legendary adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — WEAK: lying on the floor with the chin on the front paws, noticeably thin, tired half-closed eyes, ears flat, dull slightly messy fur, a small tear. Makes you want to help it. No blood, no injuries, no bones showing. The golden glow is gone. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+--- Последний шанс (дни 14–20)  →  cat_6_legend_lastchance.png / dog_6_legend_lastchance.png
+
+Take the LEGEND version (majestic legendary adult) of our character that you created earlier in this chat. Keep exactly that character at exactly that age: same size, proportions, coat, eyes, art style and line work — do NOT make it younger or older.
+New image — LAST CHANCE: curled up on a small worn blanket, very thin, eyes almost closed, faded colours, looks like it urgently needs help. Heartbreaking but gentle, not disturbing. No blood, no injuries, no bones showing. The golden glow is gone. No accessories.
+Square image, transparent background (PNG), no shadow, no text.
+
+======================================================================
+«УМЕР» (день 21+)
+======================================================================
+Отдельные картинки не нужны. Приложение берёт ДОВОЛЬНУЮ картинку того возраста, до которого дорос питомец, делает её мягкой и чуть выцветшей,
+и добавляет поверх маленькие крылышки, нимб, облачко и рамку с цветами и именем. Эти 4 детали генерируем один раз (промпты дам вместе с аксессуарами).
